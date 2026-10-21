@@ -28,7 +28,8 @@ Buat file baru dengan nama `lab4_box.html` dan isi dengan struktur dasar HTML be
 
 **Hasil di browser:**
 
-![Screenshot 1 - Persiapan dokumen](screenshots/01-persiapan-dokumen.png)
+<img width="615" height="221" alt="Screenshot 2026-10-14 072341" src="https://github.com/user-attachments/assets/fbba462c-cbb8-4758-89e4-f33851dfbf9d" />
+
 
 ---
 
@@ -46,7 +47,8 @@ Tambahkan tiga elemen `div` di dalam tag `<section>`:
 
 **Hasil di browser:**
 
-![Screenshot 2 - Box Element](screenshots/02-box-element.png)
+<img width="238" height="166" alt="Screenshot 2026-10-14 072507" src="https://github.com/user-attachments/assets/fa8acc50-529a-4768-8eb4-609bc7c6bfbf" />
+
 
 ---
 
@@ -76,7 +78,8 @@ Property `float: left` membuat ketiga div berjejer secara horizontal.
 
 **Hasil di browser:**
 
-![Screenshot 3 - Float Property](screenshots/03-float-property.png)
+<img width="628" height="309" alt="Screenshot 2026-10-14 072719" src="https://github.com/user-attachments/assets/e0e49e91-7cc5-44d7-b68d-670c2c96cf83" />
+
 
 ---
 
@@ -107,7 +110,8 @@ Property `clear: left` membuat `div4` turun ke baris baru dan tidak dipengaruhi 
 
 **Hasil di browser:**
 
-![Screenshot 4 - Clearfix](screenshots/04-clearfix.png)
+<img width="626" height="352" alt="Screenshot 2026-10-14 073042" src="https://github.com/user-attachments/assets/dbe3e311-f8d1-47a2-abc0-59278cb4ead3" />
+
 
 ---
 
@@ -155,7 +159,8 @@ Buat folder baru bernama `lab4_layout`. Di dalamnya buat dua file:
 
 **Hasil kerangka di browser:**
 
-![Screenshot 5 - Kerangka Layout](screenshots/05-kerangka-layout.png)
+<img width="687" height="325" alt="Screenshot 2026-10-14 090410" src="https://github.com/user-attachments/assets/74023d85-918b-4e49-85a9-764f883c3b69" />
+
 
 ---
 
@@ -200,7 +205,8 @@ header h1 {
 
 **Hasil setelah CSS dasar diterapkan:**
 
-![Screenshot 6 - Header Layout](screenshots/06-header-layout.png)
+<img width="1593" height="345" alt="Screenshot 2026-10-14 090626" src="https://github.com/user-attachments/assets/5eae5449-43fe-44eb-9ee4-fac7cc5514db" />
+
 
 ---
 
@@ -232,7 +238,8 @@ nav a:hover {
 
 **Hasil navigasi:**
 
-![Screenshot 7 - Navigasi](screenshots/07-navigasi.png)
+<img width="1599" height="378" alt="Screenshot 2026-10-14 090719" src="https://github.com/user-attachments/assets/0980e227-c7c9-4f98-afa3-25388559f82b" />
+
 
 ---
 
@@ -277,7 +284,8 @@ Tambahkan CSS:
 
 **Hasil Hero Panel:**
 
-![Screenshot 8 - Hero Panel](screenshots/08-hero-panel.png)
+<img width="960" height="733" alt="Screenshot 2026-10-14 090941" src="https://github.com/user-attachments/assets/da97ed4a-4ca3-4685-b728-8b3c11deea5f" />
+
 
 ---
 
@@ -376,7 +384,8 @@ Tambahkan CSS widget:
 
 **Hasil Sidebar Widget:**
 
-![Screenshot 9 - Sidebar Widget](screenshots/09-sidebar-widget.png)
+<img width="1901" height="1128" alt="Screenshot 2026-10-14 091314" src="https://github.com/user-attachments/assets/7eb30db0-47e7-4b0b-9dca-9aee948f2694" />
+
 
 ---
 
@@ -398,7 +407,8 @@ Property `clear: both` sangat penting agar footer tidak naik ke samping elemen y
 
 **Hasil Footer:**
 
-![Screenshot 10 - Footer](screenshots/10-footer.png)
+<img width="1305" height="444" alt="Screenshot 2026-10-14 091427" src="https://github.com/user-attachments/assets/29a68c33-84a0-4580-af33-e26e0c30c8ba" />
+
 
 ---
 
@@ -500,7 +510,8 @@ Tambahkan CSS:
 
 **Hasil tiga box di main content:**
 
-![Screenshot 11 - Content Box](screenshots/11-content-box.png)
+<img width="1233" height="951" alt="Screenshot 2026-10-14 091951" src="https://github.com/user-attachments/assets/b988c598-7b9a-4ece-84cf-de9d97f74531" />
+
 
 ---
 
@@ -573,7 +584,8 @@ CSS untuk artikel:
 
 **Hasil tampilan artikel:**
 
-![Screenshot 12 - Content Artikel](screenshots/12-content-artikel.png)
+<img width="1233" height="775" alt="Screenshot 2026-10-14 092636" src="https://github.com/user-attachments/assets/4ddea39d-2964-4fb7-9be6-51b422e4990a" />
+
 
 ---
 
@@ -623,7 +635,7 @@ CSS tambahan:
 
 **Hasil halaman About:**
 
-![Screenshot 13 - Halaman About](screenshots/13-about.png)
+<img width="1899" height="1136" alt="Screenshot 2026-10-14 095149" src="https://github.com/user-attachments/assets/18a32df4-c0fa-456b-9ed5-3466a6df3cab" />
 
 ---
 
@@ -736,6 +748,7 @@ CSS form:
 
 **Hasil halaman Contact:**
 
-![Screenshot 14 - Halaman Contact](screenshots/14-contact.png)
+<img width="1229" height="966" alt="Screenshot 2026-10-14 100838" src="https://github.com/user-attachments/assets/7e1fab0f-adce-47d9-9bb7-8c260a73ef4e" />
+
 
 ---
